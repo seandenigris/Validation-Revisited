@@ -1,0 +1,14 @@
+{
+	"commentStamp" : "",
+	"super" : "ComposableModel",
+	"category" : "ValidationRevisited-Examples",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"failureList",
+		"model"
+	],
+	"name" : "ValidationDashboard",
+	"type" : "normal"
+}

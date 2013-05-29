@@ -9,7 +9,8 @@
 		"supportCategory",
 		"supportSubCategory",
 		"client",
-		"date"
+		"date",
+		"announcer"
 	],
 	"name" : "SomeDomainObject",
 	"type" : "normal"
