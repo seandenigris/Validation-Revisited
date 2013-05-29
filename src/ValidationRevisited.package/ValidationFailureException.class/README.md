@@ -1,0 +1,1 @@
+Because of Pharo's runCase: exception handler (double-dispatches to the Exception objects instead of nesting), I'm not sure that the design decision described on pages 140-141, to make me anError instead of aTestFailure is necessary. We're going to keep it that way for the moment because we don't understand the implications when unit testing validation.

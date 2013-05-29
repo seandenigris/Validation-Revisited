@@ -1,0 +1,16 @@
+{
+	"commentStamp" : "<historical>",
+	"super" : "AbstractDomainObject",
+	"category" : "ValidationRevisited-Examples",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"supportCategory",
+		"supportSubCategory",
+		"client",
+		"date"
+	],
+	"name" : "SomeDomainObject",
+	"type" : "normal"
+}

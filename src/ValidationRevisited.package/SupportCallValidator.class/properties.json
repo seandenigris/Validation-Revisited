@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "",
+	"super" : "AbstractValidator",
+	"category" : "ValidationRevisited-Examples",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "SupportCallValidator",
+	"type" : "normal"
+}

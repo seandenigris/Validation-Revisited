@@ -1,0 +1,13 @@
+{
+	"commentStamp" : "",
+	"super" : "TestSuite",
+	"category" : "ValidationRevisited-Core",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"object"
+	],
+	"name" : "ValidationSuite",
+	"type" : "normal"
+}

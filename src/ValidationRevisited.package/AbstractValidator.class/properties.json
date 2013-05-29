@@ -1,0 +1,16 @@
+{
+	"commentStamp" : "<historical>",
+	"super" : "TestCase",
+	"category" : "ValidationRevisited-Core",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"object",
+		"aspect",
+		"prettyPrint",
+		"aspectForReporting"
+	],
+	"name" : "AbstractValidator",
+	"type" : "normal"
+}
