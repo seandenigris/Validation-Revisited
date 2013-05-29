@@ -1,4 +1,4 @@
 testing
 isAbstract
 
-	^ true.
+	^ self = AbstractValidator.
