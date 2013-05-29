@@ -1,0 +1,4 @@
+private
+clientWithoutName
+			
+	^ SomeClient new.

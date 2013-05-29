@@ -1,9 +1,9 @@
 instance creation-invalid
-futureDate
+invalidClient
 
 	^ self new
 			supportCategory: 'UI';
 			supportSubCategory: self possibleSubCategories atRandom;
-			client: self client;
-			date: Date tomorrow;
+			client: self clientWithoutName;
+			date: Date yesterday;
 			yourself.

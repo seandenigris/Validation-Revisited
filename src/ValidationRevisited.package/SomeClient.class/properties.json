@@ -1,0 +1,13 @@
+{
+	"commentStamp" : "",
+	"super" : "AbstractDomainObject",
+	"category" : "ValidationRevisited-Examples",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"name"
+	],
+	"name" : "SomeClient",
+	"type" : "normal"
+}

@@ -4,6 +4,6 @@ missingClient
 	^ self new
 			supportCategory: 'UI';
 			supportSubCategory: self possibleSubCategories atRandom;
-			"client: 'Bob';"
+			"client: self client;"
 			date: Date yesterday;
 			yourself.

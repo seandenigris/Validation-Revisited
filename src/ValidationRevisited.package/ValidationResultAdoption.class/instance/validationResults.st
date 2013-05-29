@@ -1,0 +1,4 @@
+accessing
+validationResults
+
+	^ validationResults.

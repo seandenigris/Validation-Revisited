@@ -1,0 +1,4 @@
+validating
+defaultValidator
+
+	^ SomeClientValidator.

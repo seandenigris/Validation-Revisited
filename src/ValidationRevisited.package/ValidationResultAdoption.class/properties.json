@@ -1,0 +1,13 @@
+{
+	"commentStamp" : "",
+	"super" : "Error",
+	"category" : "ValidationRevisited-Core",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"validationResults"
+	],
+	"name" : "ValidationResultAdoption",
+	"type" : "normal"
+}
