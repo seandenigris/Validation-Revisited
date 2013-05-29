@@ -1,4 +1,6 @@
 initialization
 initialize
 
-	domainObject := SomeDomainObject new.
+	super initialize.
+	highlightedAspects := OrderedCollection new.
+	notifications := OrderedCollection new.

@@ -5,7 +5,10 @@
 	"classinstvars" : [ ],
 	"pools" : [ ],
 	"classvars" : [ ],
-	"instvars" : [ ],
+	"instvars" : [
+		"highlightedAspects",
+		"notifications"
+	],
 	"name" : "SomeUIClass",
 	"type" : "normal"
 }

@@ -2,6 +2,6 @@ as yet unclassified
 reactToValidationFailures: aCollection
 
 	| failure |
-	failure := aCollection first.
-	self inform: failure descriptionText.
-	self highlightWidgetFor: failure aspectForReporting.
+	failure := aCollection atRandom. "SUnit stores failures in aSet, so we can't send #first"
+	self inform: failure description.
+	self highlightWidgetFor: failure aspect.

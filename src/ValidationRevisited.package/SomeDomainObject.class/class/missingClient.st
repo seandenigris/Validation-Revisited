@@ -1,5 +1,5 @@
-instance creation
-invalid
+instance creation-invalid
+missingClient
 
 	^ self new
 			supportCategory: 'UI';

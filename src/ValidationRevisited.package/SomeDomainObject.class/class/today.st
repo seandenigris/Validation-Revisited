@@ -1,9 +1,9 @@
 instance creation-valid
-valid
+today
 
 	^ self new
 			supportCategory: 'UI';
 			supportSubCategory: self possibleSubCategories atRandom;
 			client: 'Bob';
-			date: Date yesterday;
+			date: Date today;
 			yourself.
