@@ -1,0 +1,4 @@
+poorly designed
+methodWithInvalidSuperSend
+
+	super differentSelectorThanCurrentMethod.

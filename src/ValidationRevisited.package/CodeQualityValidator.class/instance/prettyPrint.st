@@ -1,0 +1,4 @@
+accessing
+prettyPrint
+
+	^ object printString.
