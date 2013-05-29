@@ -1,4 +1,4 @@
-as yet unclassified
+exceptions
 failure
 
 	^ ValidationFailureException.

@@ -1,4 +1,4 @@
-as yet unclassified
+private
 validationSuiteFor: anObject
 
 	^ self buildSuiteFromSelectors

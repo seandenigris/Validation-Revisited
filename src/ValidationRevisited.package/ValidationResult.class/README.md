@@ -1,0 +1,1 @@
+I add validation behavior to TestResult

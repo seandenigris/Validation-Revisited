@@ -1,4 +1,4 @@
-as yet unclassified
+validating
 hasValidationFailures
 
 	^ self failureCount > 0.

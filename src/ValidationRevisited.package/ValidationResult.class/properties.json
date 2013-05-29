@@ -1,5 +1,5 @@
 {
-	"commentStamp" : "",
+	"commentStamp" : "<historical>",
 	"super" : "TestResult",
 	"category" : "ValidationRevisited-Core",
 	"classinstvars" : [ ],

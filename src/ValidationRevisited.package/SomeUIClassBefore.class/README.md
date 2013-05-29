@@ -1,0 +1,1 @@
+I am an example of what validation typically looks like without a framework like this. Among other problems, it's not quite clear why the object is not valid. More investigate would be required.

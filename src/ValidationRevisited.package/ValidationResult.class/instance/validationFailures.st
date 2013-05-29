@@ -1,4 +1,4 @@
-as yet unclassified
+validating
 validationFailures
 
 	^ self failures.

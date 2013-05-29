@@ -1,4 +1,4 @@
-as yet unclassified
+private
 setDomainObject: aDomainObject
 
 	domainObject := aDomainObject.

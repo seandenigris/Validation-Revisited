@@ -1,0 +1,4 @@
+I stand in for TextFailure when using SUnit for validation instead of testing.
+
+The reason I do not inherit from TestFailure is explained in "A Mentoring Course on Smalltalk" pg. 140:
+	If we enhanced TestFailure to take care of our validation needs, we would be forced to write something like isTheRightKindOfException - which would be immediately followed by ifTrue:ifFalse:. Moreover, we would be forced to put all that mess in places such as inside the test failure exception handler... We just do not need that kind of thing. That method is elaborate enough already - and besides, why do we need to draw design time distinctions at run time?

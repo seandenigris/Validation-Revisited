@@ -1,0 +1,1 @@
+I am an abstract base class adding basic validation capabilities to Objects. I am so small that you could just implement #validate in your domain object class instead of inheriting from me. Also, I would probably be better as a Trait.
