@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "",
+	"super" : "TestResult",
+	"category" : "ValidationRevisited-Core",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "ValidationResult",
+	"type" : "normal"
+}
