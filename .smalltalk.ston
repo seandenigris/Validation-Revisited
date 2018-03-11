@@ -1,0 +1,9 @@
+SmalltalkCISpec {
+  #loading : [
+    SCIMetacelloLoadSpec {
+      #baseline : 'ValidationRevisited',
+      #directory : 'src',
+      #platforms : [ #pharo ]
+    }
+  ]
+}
