@@ -1,5 +1,6 @@
 instance creation
 openExample
+	<script>
 	"Try some of the following in the inspector that pops up and watch the dashboard monitor the model's health:
 		self client: nil.
 		self client: 'Bob'.
